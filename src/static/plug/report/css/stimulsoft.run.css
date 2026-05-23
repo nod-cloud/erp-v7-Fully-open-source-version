@@ -1,0 +1,3 @@
+div[id*="help"],div[id*="Help"],div[id*="about"],div[id*="About"],div[class*="Hyper"]{
+	display: none !important;
+}
