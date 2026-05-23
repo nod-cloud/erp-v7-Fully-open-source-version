@@ -1,0 +1,38 @@
+Dianke Cloud Inventory Management System
+
+#About the product
+Dianke Cloud Inventory System is a high-quality paid product produced by Dianke Cloud Software Center.
+
+#Catalog Description:
+Src/Program Products
+Project/Front end Engineering Files
+About/Help directory
+
+#Environmental requirements
+1. PHP version 7.3+
+MYSQL version 5.6+
+3. MYSQL needs to disable strict mode
+4. Please use the Google Chrome kernel for the terminal
+
+#Program installation
+1. Copy all files under src/to the root directory of the site.
+2. After accessing your site address, the installation wizard will be automatically executed.
+3. Pseudo static information needs to be configured, APACHE is already built-in, and IIS and NGINX need to be configured separately.
+If you encounter any other problems, please contact customer service for assistance.
+
+
+#Front end engineering files
+1. Install and configure node and npm correctly
+2. Enter the CRM directory on the command line and execute npm install
+3. Execute npm run serve from the command line
+
+#Official website address:
+https://www.nodcloud.com
+
+#Copyright Notice
+The Dianke Cloud series software is protected by national computer software copyright,
+Unauthorized disclosure of product source files without authorization from official website channels
+And direct secondary sales and secondary releases of products,
+We reserve the right to pursue legal responsibility.
+
+©  2023 nodcloud.com All rights reserved
