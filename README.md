@@ -1,6 +1,8 @@
-![NodCloud ERP](img/nod1.png)
+
 
 ## This source code is free to download and study. We have never sold it through any channel or method. Do not trust anyone charging for copyright removal or authorization! The Community Edition is free to download, install, and set up. For commercial use, please see the licensing notes below.
+
+![NodCloud ERP](img/nod1.png)
 
 ## :smile: If you find this project helpful, please give it a Star — it means a lot to us. Thank you!
 
